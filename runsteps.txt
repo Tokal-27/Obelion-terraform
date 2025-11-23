@@ -1,0 +1,11 @@
+terraform init #downloads providers and sets up the working directory 
+terraform validate # validate process 
+terraform plan # This shows what Terraform will create/update/delete
+terraform apply # This will actually create the resources
+terraform show #After apply, you can see the created resources with
+terraform destroy #  To remove everything Terraform created
+
+
+ 
+
+ 
