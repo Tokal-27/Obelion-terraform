@@ -92,7 +92,7 @@ Save diagram to `images/diagram.png`.
 
 2) Outputs (terraform output)
 
-<img width="1188" height="719" alt="Screenshot from 2025-11-23 12-06-03" src="https://github.com/user-attachments/assets/894a2341-26e2-4885-aba1-1bbaef2614ee" />
+removed due to sensetivity 
 
 
 3) Architecture diagram
